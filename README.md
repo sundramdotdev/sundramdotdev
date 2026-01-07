@@ -4,6 +4,11 @@
 <h3 align="center">A Bachelor's Student of Computer Applications</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+![](https://komarev.com/ghpvc/?username=sundramdotdev&base=500)
+
+  
+  <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></a>
+
 - 🌱 I’m currently learning **App Development and Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sundramdotdev](https://github.com/sundramdodev)
