@@ -28,5 +28,5 @@
 </p>
 
 ---
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=sundramdotdev)](https://github.com/sundramdotdev/sundramdotdev)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=sundramdotdev&date_format=j%20M%5B%20Y%5D&card_width=999&stroke=EB8925)](https://git.io/streak-stats)
 ---
