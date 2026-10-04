@@ -28,7 +28,7 @@ Currently pursuing **BCA at Shri Ramswaroop Memorial University**, while turning
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sundramdotdev&label=Profile%20Views&color=181717&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=sundramdotdev&label=PROFILE+VIEWS&color=181717&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -315,8 +315,9 @@ If something I build is useful to you, feel free to ⭐ the repository or open a
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sundramdotdev&hide_border=true" />
-
+ <a href="https://github.com/sundramdotdev">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sundramdotdev&hide_border=true" alt="Sundram's GitHub Activity Graph" />
+  </a>
 </div>
 
 ---
